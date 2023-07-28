@@ -19,4 +19,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yizhe0407&" alt="yizhe0407" /></p>
 
 
-![snake gif](https://github.com/Yizhe0407/Yizhe0407/blob/output/github-contribution-grid-snake.gif)
+![Yizhe0407 snake gif](https://github.com/Yizhe0407/Yizhe0407/blob/output/github-contribution-grid-snake.gif)
