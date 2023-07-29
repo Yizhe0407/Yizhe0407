@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/yizhe_0407" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -28,7 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,arduino,c,html,css,git,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,dotnet,github,vscode,visualstudio,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=linux,html,css,javascript,ai,ps,md,powershell,vim" />
 </div>
 
 <hr/>
@@ -45,8 +46,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yizhe0407/Yizhe0407/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
