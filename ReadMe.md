@@ -38,6 +38,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=Yizhe0407&theme=merko" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Yizhe0407&theme=merko" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yizhe0407&theme=merko" alt="readme stats" />
 </div>
 
 <hr/>
