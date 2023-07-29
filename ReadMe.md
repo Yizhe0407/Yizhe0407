@@ -20,5 +20,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yizhe0407/Yizhe0407/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yizhe0407/Yizhe0407/output/github-contribution-grid-snake-dark.svg" />
 
