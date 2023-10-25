@@ -8,7 +8,7 @@
   
 🔭 I’m Studying in National Taiwan University of Science and Technology
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python and Android studio
  </div>
 
 <div align="center"> 
