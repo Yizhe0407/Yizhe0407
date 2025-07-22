@@ -28,8 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,html,css,javascript,dotnet,kotlin,java,unity" /><br/>
-    <img src="https://skillicons.dev/icons?i=linux,github,vscode,visualstudio,androidstudio,git,ai,ps,md,powershell,vim" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,python,cpp,arduino,javascript,typescript,tailwind" /><br/>
+    <img src="https://skillicons.dev/icons?i=anaconda,docker,firebase,git,linux,postman,sublime,vscode,yarn" /><br/>
 </div>
 
 <hr/>
